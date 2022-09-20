@@ -20,7 +20,7 @@ public class Hash_bestAlbum {
 		
 		System.out.println(Arrays.toString(solution(genres, plays)));
 		System.out.println(Arrays.toString(solution2(genres, plays)));
-		System.out.println(Arrays.toString(solution3(genres, plays)));
+//		System.out.println(Arrays.toString(solution3(genres, plays)));
 	}
 	
 	public static int[] solution(String[] genres, int[] plays) {
