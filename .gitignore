@@ -1,0 +1,36 @@
+#for mac
+*/ .DS_Store
+.DS_Store
+
+#Eclipse
+.metadata
+bin/
+tmp/
+*.tmp
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+#External tool builders
+.externalToolBuilders/
+
+#Locally stored "Eclipse launch configurations"
+*.launch
+
+#Java annotation processor (APT)
+.factorypath
+
+#Eclipse Core
+.project
+
+#JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+#IntelliJ project files
+.idea
+*.iml
+out
+gen
